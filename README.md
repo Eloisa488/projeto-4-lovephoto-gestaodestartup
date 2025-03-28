@@ -1,4 +1,4 @@
-# projeto-4-lovephoto
+# projeto-4-lovephoto-gestaodestartup
 o que somos? Somos uma mini gráfica, rápida, prática e trabalhamos principalmente com polaroids. Nossa prioridade é entregar nosso serviço com rapidez e qualidade para nossos clientes.
 
 Nossa equipe é composta por Ariel, Heloisa, Vívian, Eloisa Magalhães, Lívia e Yasmin, também trabalhamos com: quadros, chaveiros, presentes, entre outros.
